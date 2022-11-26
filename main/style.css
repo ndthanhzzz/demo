@@ -1,0 +1,32 @@
+.bgrname{
+    background-color: #6284FF;
+    background-image: linear-gradient(271deg, #6284FF 50%, #FF0000 99%);
+}
+.bgrnhietdo
+{
+    background-color: #FF3CAC;
+    background-image: linear-gradient(90deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+}
+.bgrdoam{
+    background-color: #3e11a8;
+    background-image: linear-gradient(270deg, #3e11a8 0%, #00DBDE 82%);
+}
+.bgranhsang{
+    background-color: #f00096;
+    background-image: linear-gradient(270deg, #f00096 12%, #784BA0 80%);
+}
+.bgrdothi{
+    background-color: #00DBDE;
+    background-image: linear-gradient(270deg, #00DBDE 0%, #FC00FF 98%);
+}
+.bgrquathoinuoc{
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+.bgrquatthonggio{
+    background-color: #FAACA8;
+    background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);                   
+}
+.bgrbut1{
+    border-radius: 10px; width: 100px;background-color:greenyellow
+}
